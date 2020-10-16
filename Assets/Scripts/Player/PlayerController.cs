@@ -11,17 +11,17 @@ public class PlayerController : MonoBehaviour
 
     public Rigidbody2D rb;
 
-    private Vector2 _movement;
+    private Vector2 m_movement;
 
     private void Update()
     {
         // Handles movement inputs
-        _movement.x = Input.GetAxisRaw("Horizontal");
-        _movement.y = Input.GetAxisRaw("Vertical");
+        m_movement.x = Input.GetAxisRaw("Horizontal");
+        m_movement.y = Input.GetAxisRaw("Vertical");
     }
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + _movement * moveSpeed * Time.fixedDeltaTime); // Moves the player
+        rb.MovePosition(rb.position + m_movement * moveSpeed * Time.fixedDeltaTime); // Moves the player
     }
 }

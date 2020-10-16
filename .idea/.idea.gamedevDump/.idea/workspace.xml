@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="281e2771-1a73-4821-bac5-ff6b3bae1ffe" name="Default Changelist" comment="" />
+    <list default="true" id="281e2771-1a73-4821-bac5-ff6b3bae1ffe" name="Default Changelist" comment="Player movement">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +43,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -70,7 +75,11 @@
       <option name="presentableId" value="Default" />
       <updated>1602186164586</updated>
       <workItem from="1602186175318" duration="72000" />
-      <workItem from="1602187218626" duration="297000" />
+      <workItem from="1602187218626" duration="678000" />
+      <workItem from="1602187944602" duration="79000" />
+      <workItem from="1602188043699" duration="640000" />
+      <workItem from="1602188915650" duration="18000" />
+      <workItem from="1602227226768" duration="1602000" />
     </task>
     <servers />
   </component>
@@ -92,12 +101,19 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="184" key="SettingsEditor" timestamp="1602186197124">
+    <state x="430" y="184" key="SettingsEditor" timestamp="1602188339843">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="430" y="184" key="SettingsEditor/0.0.1858.1080/1920.8.1858.1080@0.0.1858.1080" timestamp="1602186197124" />
+    <state x="430" y="184" key="SettingsEditor/0.0.1858.1080/1920.8.1858.1080@0.0.1858.1080" timestamp="1602188339843" />
+    <state x="716" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602187491049">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="716" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1858.1080/1920.8.1858.1080@0.0.1858.1080" timestamp="1602187491049" />
   </component>
 </project>
