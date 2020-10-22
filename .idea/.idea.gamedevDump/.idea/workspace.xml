@@ -12,9 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="281e2771-1a73-4821-bac5-ff6b3bae1ffe" name="Default Changelist" comment="Player movement">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,7 @@
       <workItem from="1602188043699" duration="640000" />
       <workItem from="1602188915650" duration="18000" />
       <workItem from="1602227226768" duration="1602000" />
+      <workItem from="1603095308609" duration="673000" />
     </task>
     <servers />
   </component>
