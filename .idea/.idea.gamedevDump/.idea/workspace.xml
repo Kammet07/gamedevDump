@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
-  <component name="ChangeListManager">
-    <list default="true" id="281e2771-1a73-4821-bac5-ff6b3bae1ffe" name="Default Changelist" comment="Player movement">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RoomTemplates.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AddRoom.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Destroyer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/README.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RoomSpawner.cs" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1ibpUbhnIW7UCdpTri1oamfDOyU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showVisibilityIcons" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="Discover.Launch.Via.Unity" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -55,7 +9,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -64,79 +18,9 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="281e2771-1a73-4821-bac5-ff6b3bae1ffe" name="Default Changelist" comment="" />
-      <created>1602186164586</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1602186164586</updated>
-      <workItem from="1602186175318" duration="72000" />
-      <workItem from="1602187218626" duration="678000" />
-      <workItem from="1602187944602" duration="79000" />
-      <workItem from="1602188043699" duration="640000" />
-      <workItem from="1602188915650" duration="18000" />
-      <workItem from="1602227226768" duration="1602000" />
-      <workItem from="1603095308609" duration="673000" />
-      <workItem from="1603396272454" duration="82000" />
-      <workItem from="1603405500248" duration="1400000" />
-      <workItem from="1603436396512" duration="29000" />
-      <workItem from="1603436547886" duration="545000" />
-      <workItem from="1603437684648" duration="2348000" />
-    </task>
-    <task id="LOCAL-00001" summary="bts1">
-      <created>1603396333965</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1603396333965</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="bts1" />
-    <option name="LAST_COMMIT_MESSAGE" value="bts1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="430" y="184" key="SettingsEditor" timestamp="1602188339843">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="430" y="184" key="SettingsEditor/0.0.1858.1080/1920.8.1858.1080@0.0.1858.1080" timestamp="1602188339843" />
-    <state x="2441" y="267" key="Vcs.Push.Dialog.v2" timestamp="1603396337792">
-      <screen x="1920" y="8" width="1858" height="1080" />
-    </state>
-    <state x="2441" y="267" key="Vcs.Push.Dialog.v2/0.0.1858.1080/1920.8.1858.1080@1920.8.1858.1080" timestamp="1603396337792" />
-    <state x="716" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602187491049">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="716" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1858.1080/1920.8.1858.1080@0.0.1858.1080" timestamp="1602187491049" />
   </component>
 </project>
