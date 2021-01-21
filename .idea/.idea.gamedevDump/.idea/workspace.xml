@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bd977eb-d8f2-43bc-b4eb-22e4aedc7b8a" name="Default Changelist" comment="redid by tutorial">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gamedev/.idea/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/riderModule.iml" afterDir="false" />
+    <list default="true" id="8bd977eb-d8f2-43bc-b4eb-22e4aedc7b8a" name="Default Changelist" comment="redid by tutorial 2">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gamedevDump/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +12,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1n5QK7N4pWtydApHFMh0Z0nQhb5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,6 +62,9 @@
       <option name="presentableId" value="Default" />
       <updated>1610677408334</updated>
       <workItem from="1610677415652" duration="82000" />
+      <workItem from="1610697443541" duration="441000" />
+      <workItem from="1611262750362" duration="48000" />
+      <workItem from="1611262837067" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="redid by tutorial">
       <created>1610677464642</created>
@@ -65,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610677464642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="redid by tutorial 2">
+      <created>1610697536793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610697536793</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,10 +98,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="redid by tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="redid by tutorial" />
+    <MESSAGE value="redid by tutorial 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="redid by tutorial 2" />
   </component>
 </project>
